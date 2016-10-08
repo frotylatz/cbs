@@ -2,4 +2,6 @@ Nama		: Fidriyanto Rizkillah
 NPM		: 140810160043
 TTL		: Jakarta, 24 Oktober 1998
 Jenis Kelamin	: Pria
-Hobi		: CBS
+
+Nama		: M. Jordiansyah
+NPM		: 140810160040
