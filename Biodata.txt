@@ -1,2 +1,5 @@
 Nama		: Fidriyanto Rizkillah
 NPM		: 140810160043
+
+Nama		: M. Jordiansyah
+NPM		: 140810160040
